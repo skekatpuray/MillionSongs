@@ -3,9 +3,13 @@
 ExtractAndSave.py
 -----------------
 This script will perform following steps:
+
 1. Recursively iterate through all the folders and reads h5 file.  (Note: I am assuming all files are h5)
+
 2. Extracts HDF5 file contents using h5py module and exports to HDFS location (MillionSongs/AllFeatures)
+
 3. Based on some data exploration,(it's code is not part this submission) identifier fields were excluded.  Some other fields too were excluded that contained siginificant number of nulls.
+
 4. Export features that are of qualitative value (MillionSongs/f2)
 
 <After step-4 was completed, entire H5 subset folder was removed from my laptop's linux VM>
