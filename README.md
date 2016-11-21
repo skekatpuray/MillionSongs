@@ -36,7 +36,7 @@ My comments
 -----------
 I haven't experimented apache spark's mllib/ml, however if I were to do this portion using R, I would have done the following
 
-1. Perform feature scaling on some of it's parameters.
+1. Perform feature scaling on some of it's parameters.  Some of the features were in hundreds digits range while other features were in 0 < x < 1
 
 2. Since Artist Hotness is not a category variable and is a continuous one, I would have first attempted linear regression (not gradient descent based) to compute coefficients.
 
