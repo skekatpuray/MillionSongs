@@ -46,3 +46,14 @@ Some of ML experiments (based in R)
 -------------------------------------
 https://rpubs.com/skekatpuray
 
+
+Unsuccessful attempt with Java
+--------------------------------
+
+1. Was able to use code-based from the pdf assignment link https://github.com/tbertinmahieux/MSongsDB/tree/master/JavaSrc and refactor it to remove static references so as to use it in Apache Spark scala code.
+
+2. sbt package had compiled successfully, however failed to execute. 
+
+3. I tried to instal .so files however in vain. 
+
+4. I have attached TrackInfo.java 
