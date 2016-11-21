@@ -12,7 +12,7 @@ This script will perform following steps:
 
 4. Export features that are of qualitative value (MillionSongs/f2)
 
-<After step-4 was completed, entire H5 subset folder was removed from my laptop's linux VM>
+After step-4 was completed, entire H5 subset folder was removed from my laptop's linux VM
 
 inter.py
 --------
